@@ -1,0 +1,7 @@
+OUTPUT (last 5 lines):
+   1162 pass
+   4 skip
+   0 fail
+   6626 expect() calls
+  Ran 1166 tests across 109 files. [17.88s]
+
