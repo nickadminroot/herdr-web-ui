@@ -1,0 +1,4 @@
+PASS a phone's chat lens leaves the shared grid at the desktop's 38 145
+PASS the phone's terminal lens fits the grid to 34 57
+PASS the desktop's chat lens draws its hidden screen for the shared grid of 34 57
+PASS picking a chat-lens pane from a terminal-lens pane leaves the shared grid at 38 145
